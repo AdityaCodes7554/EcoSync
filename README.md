@@ -30,4 +30,12 @@ EcoSync is a Streamlit-based application that helps users calculate and understa
 To encourage sustainable habits and spread awareness about reducing carbon emissions.
 =======
 
->>>>>>> 7cc79b804d177ba32ab7f6b9b1b9bea5e2c6ae1e
+
+
+## 🌐 Live Demo
+
+Try EcoSync here:
+
+👉 https://ecosync-carbon-calculator.streamlit.app/
+
+The application is publicly accessible through Streamlit Community Cloud.
