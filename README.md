@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 EcoSync – Personal Carbon Footprint Calculator
 
 EcoSync is a Streamlit-based application that helps users calculate and understand their personal carbon footprint through daily activities.
@@ -27,3 +28,6 @@ EcoSync is a Streamlit-based application that helps users calculate and understa
 
 ## 🌍 Purpose
 To encourage sustainable habits and spread awareness about reducing carbon emissions.
+=======
+
+>>>>>>> 7cc79b804d177ba32ab7f6b9b1b9bea5e2c6ae1e
